@@ -1,2 +1,1 @@
-bash
-bash school
+starting to code today, so cool
